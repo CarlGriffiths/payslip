@@ -1,3 +1,3 @@
 # payslip application
 
-This is a playslip application I created using c++
+This is a simple playslip application I created using c++
